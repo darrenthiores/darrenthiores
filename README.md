@@ -105,12 +105,16 @@ I am open for <b>freelance</b>, <b>any collaborations</b>, or <b>projects</b>, f
 
 <div align="left">
   
-  <a href="https://linkedin.com/in/darrenthiores" target="_blank">
+  <a href="https://linkedin.com/in/darrenthiores" style="text-decoration:none;">
   <img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin;" />
   </a>
   
-  <a href="mailto:darrenthiores@gmail.com" target="_blank">
+  <a href="mailto:darrenthiores@gmail.com" style="text-decoration:none;">
   <img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail;" />
   </a>
 
+  <a href="https://medium.com/@darrenthiores" style="text-decoration:none;">
+  <img src=https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=medium&logoColor=white alt=gmail;" />
+  </a>
+  
 </div>
